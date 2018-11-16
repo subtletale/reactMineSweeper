@@ -85,7 +85,7 @@ class App extends Component {
     return (
       <main className="wrapper">
         <h1 className="header">
-          This is my Header!
+          Tip-toe through the anti-tank mines
         </h1>
         <div className="container">
           {buttonOrGrid()}
