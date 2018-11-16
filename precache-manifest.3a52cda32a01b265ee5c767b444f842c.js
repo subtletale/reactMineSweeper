@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/reactMineSweeper/static/js/runtime~main.586a143d.js"
   },
   {
-    "revision": "5a317966618800a7143b",
-    "url": "/reactMineSweeper/static/js/main.5a317966.chunk.js"
+    "revision": "c58c289b001192359c53",
+    "url": "/reactMineSweeper/static/js/main.c58c289b.chunk.js"
   },
   {
     "revision": "e595e3745c9c73c60399",
     "url": "/reactMineSweeper/static/js/1.e595e374.chunk.js"
   },
   {
-    "revision": "5a317966618800a7143b",
-    "url": "/reactMineSweeper/static/css/main.f3e83541.chunk.css"
+    "revision": "c58c289b001192359c53",
+    "url": "/reactMineSweeper/static/css/main.53e5b6b4.chunk.css"
   },
   {
-    "revision": "9cea554b5b763b292b2943eedce83b04",
+    "revision": "569e789811b206cbafefcd09e2578921",
     "url": "/reactMineSweeper/index.html"
   }
 ];
